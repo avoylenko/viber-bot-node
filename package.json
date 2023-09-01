@@ -1,11 +1,11 @@
 {
   "name": "node-viber-bot-api",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A bot interface to work with Viber API",
   "author": "Viber LTD",
   "engine-strict": true,
   "engines": {
-    "node": ">=18",
+    "node": ">=14",
     "npm": ">=8"
   },
   "keywords": [
